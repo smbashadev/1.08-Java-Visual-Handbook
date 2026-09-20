@@ -567,8 +567,8 @@ Please respect the original work when sharing or referencing the repository.
 
 <div align="center">
 
-<a href="https://github.com/shaikbasha-dev">
-<img src="https://img.shields.io/badge/GitHub-shaikbasha--dev-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/smbashadev">
+<img src="https://img.shields.io/badge/GitHub-smbashadev-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/shaikmahaboobbasha/">
